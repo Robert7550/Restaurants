@@ -1,15 +1,19 @@
-import logo from './logo.svg';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import Header from './HeaderComponents/Header';
+import Home from './ScreenComponents/Home';
+import Signup from './RegisterComponents/Signup';
 
 
 
 
 function App() {
+
+    
   return (
     <>
-      <Header/>
+      {/* <Home/> */}
+      <Signup/>
     </>
   );
 }

@@ -1,0 +1,96 @@
+{
+    "restaurants":[
+    {
+        "restaurant_id" : "1",
+        "restaurant_name" : "Pita Pit",
+        "restaurant_img" : "https://th.bing.com/th/id/OIP.lmGLAAAQJ1txH-jwsGxscwAAAA?rs=1&pid=ImgDetMain",
+        "restaurant_menu" : "Menus"
+    },
+    
+
+    {
+        "restaurant_id" : "2",
+        "restaurant_name" : "Panda Express",
+        "restaurant_img" : "https://kyl746.media.zestyio.com/panda-express-1.d4899f96e1858d7c1e61787a9f72ea96.jpg",
+        "restaurant_menu" : "Menus"
+    },
+
+
+    {
+        "restaurant_id" : "3",
+        "restaurant_name" : "Turbo Taco",
+        "restaurant_img" : "https://th.bing.com/th/id/OIP.IktnB6Dh4oIqsX7a1GJB-AAAAA?rs=1&pid=ImgDetMain",
+        "restaurant_menu" : "Menus"
+    },
+
+
+    {
+        "restaurant_id" : "4",
+        "restaurant_name" : "High Tech Burrito",
+        "restaurant_img" : "https://lh5.googleusercontent.com/p/AF1QipOfDldO6Jk-9TwloVsbJD0fNYRNwETHbc5QU9h2=s1024",
+        "restaurant_menu" : "Menus"
+    },
+
+
+    {
+        "restaurant_id" : "5",
+        "restaurant_name" : "White Castle",
+        "restaurant_img" : "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/white-castle-hamburger-restaurant-columbus-ohio-news-photo-144099188-1532108707.jpg?crop=1.00xw:0.751xh;0,0.0891xh&resize=1200:*",
+        "restaurant_menu" : "Menus"
+    },
+
+
+    {
+        "restaurant_id" : "6",
+        "restaurant_name" : "Steak n Shake",
+        "restaurant_img" : "https://th.bing.com/th/id/OIP.nojASrWAIsUCya23iaX3JQHaE8?rs=1&pid=ImgDetMain",
+        "restaurant_menu" : "Menus"
+    },
+
+
+    {
+        "restaurant_id" : "7",
+        "restaurant_name" : "Five Guys",
+        "restaurant_img" : "https://th.bing.com/th/id/OIP.xSq1LprNPTkdF0xhNMDgpwHaE8?rs=1&pid=ImgDetMain",
+        "restaurant_menu" : "Menus"
+    },
+
+
+    {
+        "restaurant_id" : "8",
+        "restaurant_name" : "In-N-Out Burger",
+        "restaurant_img" : "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/getty_1395056240_2000159920009280246_xmkgfh.jpg",
+        "restaurant_menu" : "Menus"
+    },
+
+
+    {
+        "restaurant_id" : "9",
+        "restaurant_name" : "Raising Cane's",
+        "restaurant_img" : "https://th.bing.com/th/id/OIP.7v5ryQzW_V41rMv4veEHagHaE6?rs=1&pid=ImgDetMain",
+        "restaurant_menu" : "Menus"
+    },
+
+
+    {
+        "restaurant_id" : "10",
+        "restaurant_name" : "Whataburger",
+        "restaurant_img" : "https://th.bing.com/th/id/OIP.rYQVQHbd-CK3718aQ44xjAHaE8?rs=1&pid=ImgDetMain",
+        "restaurant_menu" : "Menus"
+    },
+
+    {
+        "restaurant_id" : "11",
+        "restaurant_name" : "Raising Cane's",
+        "restaurant_img" : "https://th.bing.com/th/id/OIP.7v5ryQzW_V41rMv4veEHagHaE6?rs=1&pid=ImgDetMain",
+        "restaurant_menu" : "Menus"
+    },
+
+    {
+        "restaurant_id" : "12",
+        "restaurant_name" : "Whataburger",
+        "restaurant_img" : "https://th.bing.com/th/id/OIP.rYQVQHbd-CK3718aQ44xjAHaE8?rs=1&pid=ImgDetMain",
+        "restaurant_menu" : "Menus"
+    }
+]
+}
