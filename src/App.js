@@ -12,8 +12,8 @@ function App() {
     
   return (
     <>
-      {/* <Home/> */}
-      <Signup/>
+      <Home/>
+      {/* <Signup/> */}
     </>
   );
 }
