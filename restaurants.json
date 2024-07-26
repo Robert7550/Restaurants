@@ -81,15 +81,15 @@
 
     {
         "restaurant_id" : "11",
-        "restaurant_name" : "Raising Cane's",
-        "restaurant_img" : "https://th.bing.com/th/id/OIP.7v5ryQzW_V41rMv4veEHagHaE6?rs=1&pid=ImgDetMain",
+        "restaurant_name" : "Homely Café",
+        "restaurant_img" : "https://www.capitaland.com/content/dam/capitaland-tenants/imported/en/-/media/cma-malls/websites/logos_560/h/homely%20cafe_homely%20cafe_ca9dee16-26f8-4188-acce-a9bc0ff7af06_560x462.jpg.transform/cap-midres/image.jpg",
         "restaurant_menu" : "Menus"
     },
 
     {
         "restaurant_id" : "12",
-        "restaurant_name" : "Whataburger",
-        "restaurant_img" : "https://th.bing.com/th/id/OIP.rYQVQHbd-CK3718aQ44xjAHaE8?rs=1&pid=ImgDetMain",
+        "restaurant_name" : "The Eat Spot",
+        "restaurant_img" : "https://i.pinimg.com/originals/62/94/aa/6294aa37e4e22b9696839428b08301c5.jpg",
         "restaurant_menu" : "Menus"
     }
 ]

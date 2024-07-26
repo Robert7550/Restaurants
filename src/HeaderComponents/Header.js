@@ -23,7 +23,6 @@ class Header extends Component {
                     <nav className="nav-menu active"  onClick={this.NavBarHandler}>
                         <ul className= {this.state.clicked ? "nav-list active" : "nav-list"} >
                             <a href="#">
-                                
                                 <li> Home</li>
                             </a> 
 

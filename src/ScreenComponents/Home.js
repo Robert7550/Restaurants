@@ -11,11 +11,12 @@ const Home = (props) => {
     const [restaurant, setRestaurant] = useState([]);
 
     useEffect(() => {
+
         // axios.get("http://localhost:3001/restaurants")
         // .then((response) => setRestaurant(response.data.restaurants))
         // .catch((err) => console.log(err));
 
-        fetch("http://localhost:3001/restaurants")
+        fetch("http://localhost:5001/restaurants")
         .then(response => response.json())
         .then(data => setRestaurant(data))
         .catch(err => console.log(err))
@@ -31,17 +32,13 @@ const Home = (props) => {
                 <h4>See, our restaurant partners are here. And here, you can choose which restaurant you want</h4>
             </div>
             
-            {/* <h2>I am a { props.brand }!</h2>; */}
-
             <div className="restaurants">
                 <ul className="restaurants-ul">
-
                     {restaurant.map((list, index) => (
                         <li  key={index} > 
                             <img src={list.restaurant_img} />
-                            <p>{list.restaurant_id}</p>
                             <p>{list.restaurant_name}</p>
-                            <a href="">{list.restaurant_menu}</a> 
+                            <a href="/menu">{list.restaurant_menu}</a> 
                         </li>
                     ))}
                 </ul>
